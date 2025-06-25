@@ -1,1 +1,0 @@
-document(JSON.stringify(document))
