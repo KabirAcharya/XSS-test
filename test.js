@@ -1,2 +1,1 @@
-alert(document.domain)
-alert(document.cookie)
+document(JSON.stringify(document))
